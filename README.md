@@ -1,6 +1,6 @@
 # Estimation-of-the-stress-level-and-mental-workload-of-motorcyclists- (Internship project)
 
-The proposed framework evaluates stress levels and mental workload in a driving simulator context. It utilizes an unsupervised approach that does not require pre-labeled data. Additionally, it is designed to be effective even for studies with short-duration signal recordings. The framework leverages physiological data, such as EEG and ECG, which are commonly used in these types of studies.
+The proposed framework uses physiological data, specifically EEG and ECG signals, to evaluate stress levels and mental workload in a driving simulator context. It employs an unsupervised approach that does not require pre-labeled data. Additionally, it is designed to be effective even for studies with short-duration signal recordings. 
 
 The framework follows these steps:
 
