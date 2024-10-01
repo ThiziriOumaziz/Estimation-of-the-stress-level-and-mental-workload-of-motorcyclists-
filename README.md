@@ -11,3 +11,5 @@ The framework follows these steps:
 **3- Analysis:** The evolution of the extracted metrics is analyzed.
 
 **4- Segmentation and Clustering:** Multivariate time series, consisting of the extracted metrics, are segmented and clustered using the TICC (Toeplitz Inverse Covariance-Based Clustering) algorithm. This aims to identify two levels of response related to stress and mental workload.
+
+![Alt text](C:\Users\pc\Desktop\Projets\Estimation-of-the-stress-level-and-mental-workload-of-motorcyclists-\Estimation-of-the-stress-level-and-mental-workload-of-motorcyclists-)
